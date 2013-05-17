@@ -1,0 +1,6 @@
+#! /usr/bin/env ruby
+
+require "./lib/ant.rb"
+
+puts Ant.new.run.plane
+
